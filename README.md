@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Yousef%20Aljallad%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ## 👨‍💻 About Me
-AI Engineer with a strong foundation in computer engineering and hands-on experience developing machine learning models, NLP systems, and automation solutions. Skilled in fine-tuning large language models, building AI pipelines, and integrating intelligent systems into real-world applications such as chatbots, authorship verification, and driving simulators. Passionate about advancing AI technologies that create measurable business and user impact.
+Computer Engineer with a strong foundation in computer engineering and hands-on experience developing machine learning models, NLP systems, and automation solutions. Skilled in fine-tuning large language models, building AI pipelines, and integrating intelligent systems into real-world applications such as chatbots, authorship verification, and driving simulators. Passionate about advancing AI technologies that create measurable business and user impact.
 
 ---
 
